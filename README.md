@@ -20,18 +20,13 @@ tar -xzf ZIPNAME
 [install git](https://linuxize.com/post/how-to-install-git-on-ubuntu-18-04/)
 
 ```shell
-apt update
-```
-
-```shell
-apt install git
+apt update && apt install git
 ```
 
 [install nodejs](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
 
 ```shell
-apt install nodejs
-apt install npm
+apt install nodejs && apt install npm
 ```
 
 install yarn
